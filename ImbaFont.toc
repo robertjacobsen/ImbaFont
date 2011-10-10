@@ -1,4 +1,4 @@
-## Interface: 32000
+## Interface: 40200
 ## Title: ImbaFont!
 ## Notes: Font = IMBA!
 ## Author: Amnith
